@@ -1,0 +1,25 @@
+body{
+	font-family: Times New Roman ;
+	background-color:#FAF9F6 ;
+}
+h1{
+	text-align: center;
+	background-color: #007896;
+}
+
+footer{
+	background-color: #FF9736;
+}
+
+aside {
+	background-color: #19B9E3;
+	text-align: center;
+	border-style: dotted;
+	margin: 25px 50px 75px 100px;
+	float: right;
+ 	width: 50%;
+}
+
+td,tr, nav{
+	padding: 10px;
+}
