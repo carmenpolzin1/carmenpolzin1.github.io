@@ -15,9 +15,10 @@ aside {
 	background-color: #19B9E3;
 	text-align: center;
 	border-style: dotted;
-	margin: 25px 50px 75px 100px;
+	margin: 50px 50px 75px 100px;
 	float: right;
  	width: 50%;
+ 	padding: 10px;
 }
 
 td,tr, nav{
